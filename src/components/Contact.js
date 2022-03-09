@@ -7,7 +7,7 @@ export default function ContactMe() {
       id="contactme"
     >
       <h1 className="text-4xl">Interested in working together?</h1>
-      <a href="mailto:me.shivansh007@gmail.com">
+      <a href="mailto:arpanp99@gmail.com">
         <span className="mt-10 inline-block w-auto bg-black font-display text-white text-base md:text-xl py-4 px-7 cursor-pointer">
           <div className="flex flex-row items-center">
             <span className="mr-3 ">Get in touch</span>
