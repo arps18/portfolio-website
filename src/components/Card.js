@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../images/arpan.jpg";
+import profile from "../images/image.jpg";
 import {
   FaGithub,
   FaLinkedin,
